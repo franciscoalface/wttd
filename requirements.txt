@@ -5,3 +5,5 @@ python-decouple==3.1
 static3==0.7.0
 gunicorn==19.4.1
 psycopg2==2.6.1
+django_extensions==1.9.7
+django_test_without_migrations==0.6
