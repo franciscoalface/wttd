@@ -3,6 +3,7 @@
 Sistema de Eventos encomendado pela Morena.
 
 [![Build Status](https://travis-ci.org/franciscoalface/wttd.svg?branch=master)](https://travis-ci.org/franciscoalface/wttd)
+[![Code Health](https://landscape.io/github/franciscoalface/wttd/master/landscape.svg?style=flat)](https://landscape.io/github/franciscoalface/wttd/master)
 
 ## Como desenvolver?
 
